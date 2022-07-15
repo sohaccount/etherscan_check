@@ -39,6 +39,6 @@ etherscan_api #etherscan_api
 discord_webhooks #discord ※使いたい場合のみ  
 to #自分の電話番号　+81から記載　例）090-9999-9999の場合　+819099999999  
 from　#twilioで作った電話番号　+81から記載　※上記参照  
-address #監視対象のアドレス　eGSTのDooarアドレスの場合　0x53e0e51b5Ed9202110D7Ecd637A4581db8b9879F  
+address #eGSTのDooarアドレス　0x53e0e51b5Ed9202110D7Ecd637A4581db8b9879F  
 owner_address　#オーナーアドレス　0x6238872A0Bd9F0E19073695532a7Ed77ce93C69E
 
