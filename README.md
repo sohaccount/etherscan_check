@@ -8,7 +8,7 @@
 # 実行されること
 
 Dooarアドレスに addLiquidity があった場合に指定した電話番号に電話する。  
-eGSTのオーナーアドレスがmintした場合に電話番号に電話する。
+eGSTのオーナーアドレスがmintした場合に電話番号に電話する。  
 Google Cloud Functionは1分毎に呼び出されるが、念のため現在時刻から2分前までのトランザクションを対象とする。  
 ※条件判定にaddLiquidity(address tokenA, address tokenB, uint256 amountADesired, uint256 amountBDesired, uint256 amountAMin, uint256 amountBMin, address to, uint256 deadline)と一致を指定しているので、それ以外の記載のパターンがあった場合は検知できません。
 
