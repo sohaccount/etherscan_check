@@ -20,6 +20,14 @@ https://cloudapi.kddi-web.com/magazine/twilio-lesson/how-to-buy-a-telephone-numb
 https://note.com/10mohi6/n/naa1d4ee3d3bf
 
 
+その他迷いそうなところ
+
+エントリポイント  
+add_liqudity_check  
+
+Cloud Schedulerの頻度部分  
+* * * * *  
+
 
 
 # 環境変数は以下を設定ください 　 
