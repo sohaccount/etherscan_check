@@ -9,7 +9,7 @@
 https://cloudapi.kddi-web.com/magazine/twilio-lesson/how-to-buy-a-telephone-number
 
 
-# Google cloud　functionの設定流れ
+# Google cloud functionの設定流れ
 https://note.com/10mohi6/n/naa1d4ee3d3bf
 
 
