@@ -17,7 +17,7 @@ https://note.com/10mohi6/n/naa1d4ee3d3bf
 
 # 環境変数は以下を設定ください 　 
 
-account_sid　#twilio  　
+account_sid　#twilio  
 auth_token #twilio  
 etherscan_api #etherscan_api  
 discord_webhooks #discord ※使いたい場合のみ to #自分の電話番号　+81から記載　例）090-9999-9999の場合　+819099999999  
