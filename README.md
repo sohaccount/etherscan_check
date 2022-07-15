@@ -1,8 +1,8 @@
 # 流れ
 
-①Twilioで電話番号購入、APIキーの発行
-②etherscanでAPIキーの発行
-③Google cloud functionの設定※他のサービスでも可能ですがコードは修正しないといけない可能性あります。
+①Twilioで電話番号購入、APIキーの発行  
+②etherscanでAPIキーの発行  
+③Google cloud functionの設定※他のサービスでも可能ですがコードは修正しないといけない可能性あります。  
 
 
 # Twilio電話番号取得とAPIkeyの取得
