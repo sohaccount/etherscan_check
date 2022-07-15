@@ -5,6 +5,11 @@
 ③Google cloud functionの設定※他のサービスでも可能ですがコードは修正しないといけない可能性あります。  
 
 
+# 実行されること
+
+監視アドレスに addLiquidity があった場合に指定した電話番号に電話する。  
+Google Cloud Functionは1分毎に呼び出されるが、念のため現在時刻から2分前までのトランザクションを対象とする。
+
 # Twilio電話番号取得とAPIkeyの取得
 https://cloudapi.kddi-web.com/magazine/twilio-lesson/how-to-buy-a-telephone-number
 
